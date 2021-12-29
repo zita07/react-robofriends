@@ -1,6 +1,7 @@
 # robofriends
 
-Practice for React
+**Practice for React**  
+
 To run the project:
 
 1. Clone this repo
